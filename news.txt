@@ -14,7 +14,8 @@
 - Criar Dash para atualização das quests do Eden sem código
 - Adicionado portal direto em Prontera levando até a base do Éden.
 - Corrigido bug de nomes de itens corrompidos/quebrados (quase 4 mil itens).
-- Traduzidos mais de 3.700 textos da interface do jogo, liberado para teste dos jogadores.- Nomes dos monstros agora aparecem certos na aba de missões (ALT+U), não mais em inglês.
+- Traduzidos mais de 3.700 textos da interface do jogo, liberado para teste dos jogadores.
+- Nomes dos monstros agora aparecem certos na aba de missões (ALT+U), não mais em inglês.
 - Acentos e "ç" funcionando de verdade em NPCs e textos de missão.
 
 16.07.2026
