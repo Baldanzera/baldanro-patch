@@ -1,9 +1,21 @@
 ﻿Atualizações Recentes:
 
+18.07.2026:
+- Placas de caçada do Éden 2, 3, 4 e 5 agora funcionando, com escolha de monstro.
+- Corrigido de vez o bug de "Missão Desconhecida" e nomes/níveis errados nas quests do Éden.
+- Balanceamento de habilidades de várias classes (Arqueiro, Mercador, Gatuno, Espadachim, Noviço, Caçador, Bruxo e Cavaleiro)
+- Taxas do servidor ajustadas para 3x de EXP e 3x de Drop.
+- Efeito visual de brilho ao dropar cartas no chão.
+- Limite de cor de roupa (@hcolor) liberado até 700 opções.
+
 17.07.2026
 - Traduzir monstros no client, não só no servidor
 - Implementar o Eden manualmente (Placas de Hunt)
 - Criar Dash para atualização das quests do Eden sem código
+- Adicionado portal direto em Prontera levando até a base do Éden.
+- Corrigido bug de nomes de itens corrompidos/quebrados (quase 4 mil itens).
+- Traduzidos mais de 3.700 textos da interface do jogo, liberado para teste dos jogadores.- Nomes dos monstros agora aparecem certos na aba de missões (ALT+U), não mais em inglês.
+- Acentos e "ç" funcionando de verdade em NPCs e textos de missão.
 
 16.07.2026
 - Host pago para ter servidor 100% uptime
