@@ -1,0 +1,34 @@
+﻿Atualizações Recentes:
+
+17.07.2026
+- Traduzir monstros no client, não só no servidor
+- Implementar o Eden manualmente (Placas de Hunt)
+- Criar Dash para atualização das quests do Eden sem código
+
+16.07.2026
+- Host pago para ter servidor 100% uptime
+- Dominio para ter o site www.BaldanRO.com.br
+- Site/FluxCP personalizado com criação de contas
+- Site com dados da conta, cash, logs e infos do servidor
+- Sistema Doação com cash ingame automático
+
+14.07.2026
+- Decidido Rates do servidor
+- Automação do server se autoligar caso host reinicie
+- Adicionado aviso geral com drop 1% pra baixo
+- Adicionado tracker de trades e movimentações suspeitas
+
+13.07.2026
+- Arrumado interface de quests na tela e Alt+U
+- Adicionado comandos VIP e Player Normal
+- Adicionado Loja CashShop
+
+12.07.2026:
+- Traduzimos toda a interface de Quests base do jogo.
+- Adicionamos um Dashboard para edição dinâmica de NPCs e Missões.
+- Resolvemos o crash visual de telas brancas implementando o sistema dgVoodoo.
+- Patcher reescrito e melhorado com auto-update.
+
+11.07.2026:
+- Modificação em itens iniciais.
+- Tradução de descrições base.
