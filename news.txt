@@ -1,4 +1,28 @@
-﻿Atualizações Recentes:
+﻿Atualizacoes Recentes:
+
+18.08.2026:
+- BUSSOLA DO AVENTUREIRO: todo personagem recebe a Bussola (duplo clique ou @guia).
+  Mostra suas missoes ativas e traca uma rota de setas no chao ate o proximo passo.
+- Sistema /navi implementado de verdade: navegacao por mapa, NPC e missao funcionando.
+- PAYON: as 5 saidas da Vila dos Arqueiros voltaram ao lugar (tinham desaparecido na
+  troca para a versao antiga da cidade).
+- CAIXA DE BOAS VINDAS para quem entra pela primeira vez: Ticket VIP (1 dia),
+  5 Pergaminhos de Bencao lvl 5, 5 de Aumentar Agilidade lvl 5 e a Cartola Recheada.
+- CASH SHOP novo: itens reorganizados nas abas certas (Pergaminhos, Aluguel,
+  Consumiveis e Outros), 5 banners novos do BaldanRO no topo e o botao de recarga
+  agora chama "Doar" e leva direto para a pagina oficial de doacao.
+- ITENS NOVOS: Zenite (reseta atributos), Bolsa Cash, Caixa de Ziegfried, caixas de
+  Asa de Mosca e Borboleta Infinita, e o Passe Antigravitacional (aumenta o limite
+  de peso que voce carrega).
+- SISTEMA DE SUFIXOS (Random Options): equipamentos podem dropar com 0, 1 ou 2
+  atributos aleatorios extras (Forca, Dano %, ASPD, etc).
+- AUTOTRADE2 (@at2): abra sua banca de vending, use @at2 e seu personagem vira uma
+  banca fixa vendendo sozinho - e voce pode logar em OUTRO personagem da mesma conta
+  e jogar normalmente. Ao voltar no mercador, a banca fecha e o Zeny e creditado.
+- PET LOOTER: pets coletores agora entregam o item direto no seu inventario.
+- Pet novo: Jack.
+- /w e /who agora mostram separado quantos jogadores estao jogando e quantos estao
+  em autotrade, alem do total.
 
 18.07.2026:
 - Placas de caçada do Éden 2, 3, 4 e 5 agora funcionando, com escolha de monstro.
